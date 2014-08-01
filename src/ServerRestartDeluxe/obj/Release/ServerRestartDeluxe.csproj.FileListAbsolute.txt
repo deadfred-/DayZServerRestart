@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Release\ServerRestartDeluxe.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Release\config.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Release\Default_config.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Release\LICENSE.txt
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Release\ServerRestartDeluxe.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Release\ServerRestartDeluxe.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Release\BattleNET.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\obj\Release\ServerRestartDeluxe.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\obj\Release\ServerRestartDeluxe.pdb

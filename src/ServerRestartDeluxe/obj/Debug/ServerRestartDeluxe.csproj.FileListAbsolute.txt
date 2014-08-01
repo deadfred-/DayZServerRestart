@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Debug\ServerRestartDeluxe.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Debug\ServerRestartDeluxe.exe
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Debug\ServerRestartDeluxe.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\obj\Debug\ServerRestartDeluxe.exe
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\obj\Debug\ServerRestartDeluxe.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Debug\config.xml
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Debug\Default_config.xml
+c:\users\admin\documents\visual studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\obj\Debug\ServerRestartDeluxe.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Debug\BattleNET.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ServerRestartDeluxe\ServerRestartDeluxe\bin\Debug\LICENSE.txt
